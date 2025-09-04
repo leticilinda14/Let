@@ -1,0 +1,7 @@
+site-tropicalia/
+│── index.html
+│── style.css
+│── script.js
+│── README.md
+│── /assets
+    ├── (imagens, sons, etc.)
